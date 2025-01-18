@@ -1,1 +1,1 @@
-worker: python sharp.py
+web: python sharp.py
