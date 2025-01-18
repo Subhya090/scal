@@ -1,1 +1,1 @@
-worker: python sharp.py
+worker: ./start.sh
